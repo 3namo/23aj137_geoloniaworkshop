@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "今橋駅",
+        "description": "ことでん"
+      },
+      "geometry": {
+        "coordinates": [
+          134.06439016343847,
+          34.341419134263234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "沖松島駅",
+        "description": "ことでん2" 
+      },
+      "geometry": {
+        "coordinates": [
+          134.0723421604756,
+          34.34119196777014
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
