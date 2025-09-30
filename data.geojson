@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "今橋駅",
-        "description": "ことでん"
+        "name": "高松刑務所",
+        "description": "刑務所"
       },
       "geometry": {
         "coordinates": [
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "name": "沖松島駅",
-        "description": "ことでん2" 
+        "description": "ことでん" 
       },
       "geometry": {
         "coordinates": [
@@ -30,4 +30,5 @@
       }
     }
   ]
+
 }
